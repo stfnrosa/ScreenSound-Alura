@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\ScreenSound-Classes\\",
+  "WorkspaceRootPath": "D:\\Projetos\\ScreenSound-Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|c:\\users\\user\\desktop\\estefani\\projetos\\screensound-classes\\screensound-classes\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|d:\\projetos\\screensound-classes\\screensound-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|solutionrelative:screensound-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|d:\\projetos\\screensound-classes\\screensound-classes\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|solutionrelative:screensound-classes\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|c:\\users\\user\\desktop\\estefani\\projetos\\screensound-classes\\screensound-classes\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|d:\\projetos\\screensound-classes\\screensound-classes\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|solutionrelative:screensound-classes\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|c:\\users\\user\\desktop\\estefani\\projetos\\screensound-classes\\screensound-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|solutionrelative:screensound-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|d:\\projetos\\screensound-classes\\screensound-classes\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F511B5-A42D-4277-A4D5-4EBF12BAADD7}|ScreenSound-Classes\\ScreenSound-Classes.csproj|solutionrelative:screensound-classes\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 238,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,47 +38,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Banda.cs",
+              "RelativeDocumentMoniker": "ScreenSound-Classes\\Banda.cs",
+              "ToolTip": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Banda.cs",
+              "RelativeToolTip": "ScreenSound-Classes\\Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:13:40.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound-Classes\\Program.cs",
+              "ToolTip": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Program.cs*",
+              "RelativeToolTip": "ScreenSound-Classes\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:04:37.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Album.cs",
+              "DocumentMoniker": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Album.cs",
               "RelativeDocumentMoniker": "ScreenSound-Classes\\Album.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Album.cs*",
-              "RelativeToolTip": "ScreenSound-Classes\\Album.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAMAAAAAAAAAA==",
+              "ToolTip": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Album.cs",
+              "RelativeToolTip": "ScreenSound-Classes\\Album.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T23:27:33.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Musica.cs",
+              "DocumentMoniker": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Musica.cs",
               "RelativeDocumentMoniker": "ScreenSound-Classes\\Musica.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Musica.cs",
-              "RelativeToolTip": "ScreenSound-Classes\\Musica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Musica.cs*",
+              "RelativeToolTip": "ScreenSound-Classes\\Musica.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T21:46:26.083Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 238,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound-Classes\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\ScreenSound-Classes\\ScreenSound-Classes\\Program.cs",
-              "RelativeToolTip": "ScreenSound-Classes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T23:31:24.502Z",
               "EditorCaption": ""
             }
           ]

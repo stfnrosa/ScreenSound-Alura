@@ -1,9 +1,15 @@
 ﻿using ScreenSound_Classes;
 
-class Album
+public class Album
 {
     private List<Musica> musicaLista = new List<Musica>();
-    public string Nome { get; set; }
+
+    public Album(string nome)
+    {
+        Nome = nome;
+    }
+
+    public string Nome { get; }
 
     public int DuracaoTotal => musicaLista.Sum(m => m.Duracao);
 
@@ -21,4 +27,4 @@ class Album
         }
             Console.WriteLine($"Esse álbum possui a duração total de {DuracaoTotal} segundos");
     }
-}
+} 
